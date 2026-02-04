@@ -1,0 +1,8 @@
+{
+    "pigeons": [
+        {
+            "name": "pi-geon",
+            "types": "cps"
+        }
+    ]
+}
