@@ -1,7 +1,51 @@
 {
     "pigeons": [
         {
+            "name": "migueon",
+            "types": "c"
+        },
+        {
             "name": "pi-geon",
+            "types": "cps"
+        },
+        {
+            "name": "pigeon_camille",
+            "types": "c"
+        },
+        {
+            "name": "pigeon_license",
+            "types": "cps"
+        },
+        {
+            "name": "pigeon_parisien",
+            "types": "c"
+        },
+        {
+            "name": "pigeon_tout_court",
+            "types": "c"
+        },
+        {
+            "name": "pigeongle",
+            "types": "cps"
+        },
+        {
+            "name": "pigeot",
+            "types": "c"
+        },
+        {
+            "name": "PiojK",
+            "types": "c"
+        },
+        {
+            "name": "pirond",
+            "types": "ps"
+        },
+        {
+            "name": "pisegeon",
+            "types": "cps"
+        },
+        {
+            "name": "PJ",
             "types": "cps"
         }
     ]
