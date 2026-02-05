@@ -35,7 +35,7 @@ for (const pigeon of pigeons.pigeons) {
 
 const myBento = new BentoGrid({
     balanceFillers: true,
-    columns: 4,
+    columns: 6,
     cellGap: 6,
     target: "#pigeons-bento",
     aspectRatio: 1,
