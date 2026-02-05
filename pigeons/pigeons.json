@@ -13,6 +13,10 @@
             "types": "c"
         },
         {
+            "name": "pigeon_de_la_liberté",
+            "types": "c"
+        },
+        {
             "name": "pigeon_license",
             "types": "cps"
         },
@@ -33,6 +37,14 @@
             "types": "c"
         },
         {
+            "name": "pijoint",
+            "types": "c"
+        },
+        {
+            "name": "pijongle",
+            "types": "c"
+        },
+        {
             "name": "PiojK",
             "types": "c"
         },
@@ -47,6 +59,10 @@
         {
             "name": "PJ",
             "types": "cps"
+        },
+        {
+            "name": "prisegeon",
+            "types": "c"
         }
     ]
 }
