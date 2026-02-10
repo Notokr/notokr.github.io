@@ -1,12 +1,28 @@
 {
     "pigeons": [
         {
+            "name": "cropigeon",
+            "types": "",
+            "date": "03/02/26"
+        },
+        {
             "name": "migueon",
             "types": "c"
         },
         {
             "name": "pi-geon",
-            "types": "cps"
+            "types": "cps",
+            "date": "06/02/26"
+        },
+        {
+            "name": "PIG-EON",
+            "types": "",
+            "date": "09/02/26"
+        },
+        {
+            "name": "pigeavion",
+            "types": "",
+            "date": "03/02/26"
         },
         {
             "name": "pigeon_camille",
@@ -29,6 +45,11 @@
             "types": "c"
         },
         {
+            "name": "pigeono-beluga",
+            "types": "",
+            "date": "03/02/26"
+        },
+        {
             "name": "pigeongle",
             "types": "cps"
         },
@@ -38,11 +59,13 @@
         },
         {
             "name": "pijoint",
-            "types": "c"
+            "types": "c",
+            "date": "10/02/26"
         },
         {
             "name": "pijongle",
-            "types": "cps"
+            "types": "cps",
+            "date": "10/02/26"
         },
         {
             "name": "PiojK",
@@ -54,15 +77,22 @@
         },
         {
             "name": "pisegeon",
-            "types": "cps"
+            "types": "cps",
+            "date": "06/02/26"
         },
         {
             "name": "PJ",
-            "types": "cps"
+            "types": "cps",
+            "date": "09/02/26"
         },
         {
             "name": "prisegeon",
             "types": "c"
+        },
+        {
+            "name": "st-pigeontin",
+            "types": "",
+            "planned": "14/02/26"
         }
     ]
 }
