@@ -17,7 +17,7 @@ for (const pigeon of pigeons.pigeons) {
     pigeonImageTag.classList.add("pigeon-tile");
     pigeonNameTag.classList.add("pigeon-name");
 
-    pigeonNameTag.innerHTML = `<span class="bolded">« ${pigeon.name} »</span><br>${pigeon.date? `Appeared the ${pigeon.date}`:(pigeon.planned?`Planned for ${pigeon.planned}`:"Not planned yet.")}`;
+    pigeonNameTag.innerHTML = `<span class="bolded">« ${pigeon.name} »</span><br>${pigeon.date? `Apparu le ${pigeon.date}`:(pigeon.planned?`Prévu pour le ${pigeon.planned}`:"Pas prévu encore.")}`;
 
     if (pigeon.types.includes("s")) {
         pigeonImageTag.src = `${baseURL}/images/svg/${pigeon.name}.svg`
@@ -29,7 +29,7 @@ for (const pigeon of pigeons.pigeons) {
         pigeonImageTag.src = `${baseURL}/images/svg/no_pigeon.svg`
         let warning = document.createElement("span");
         warning.classList.add("ACHTUNG");
-        warning.innerText = "No image availlable";
+        warning.innerText = "Pas d'visuel sur le Pij'";
         pigeonNameTag.appendChild(document.createElement("br"));
         pigeonNameTag.appendChild(warning);
     }
