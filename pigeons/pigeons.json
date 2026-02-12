@@ -16,7 +16,7 @@
         },
         {
             "name": "PIG-EON",
-            "types": "",
+            "types": "ps",
             "date": "09/02/26"
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "name": "pijoint",
-            "types": "c",
+            "types": "cps",
             "date": "10/02/26"
         },
         {
