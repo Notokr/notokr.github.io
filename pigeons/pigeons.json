@@ -6,6 +6,11 @@
             "date": "03/02/26"
         },
         {
+            "name": "nord_VPigeN",
+            "types": "cps",
+            "date": "17/02/26"
+        },
+        {
             "name": "migueon",
             "types": "c"
         },
@@ -22,6 +27,11 @@
             "name": "PIG-EON",
             "types": "ps",
             "date": "09/02/26"
+        },
+        {
+            "name": "pigeama",
+            "types": "cps",
+            "date": "17/02/26"
         },
         {
             "name": "pigeavion",
