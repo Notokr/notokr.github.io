@@ -15,6 +15,11 @@
             "types": "c"
         },
         {
+            "name": "pigehonfleur",
+            "types": "",
+            "planned": "20/03/26"
+        },
+        {
             "name": "pi-geon",
             "types": "cps",
             "date": "06/02/26"
@@ -47,6 +52,11 @@
             "types": "cps"
         },
         {
+            "name": "pigeon_des_bois",
+            "types": "",
+            "date": "17/03/26"
+        },
+        {
             "name": "pigeon_license",
             "types": "cps"
         },
@@ -68,8 +78,28 @@
             "types": "cps"
         },
         {
+            "name": "pigeoratif",
+            "types": "ps",
+            "date": "10/03/26"
+        },
+        {
+            "name": "pigeorloge",
+            "types": "",
+            "date": "14/03/26"
+        },
+        {
             "name": "pigeot",
             "types": "c"
+        },
+        {
+            "name": "pigeyptien",
+            "types": "cps",
+            "date": "13/03/26"
+        },
+        {
+            "name": "pigymnaste",
+            "types": "c",
+            "date": "14/03/26"
         },
         {
             "name": "pijoint",
@@ -100,13 +130,29 @@
             "date": "09/02/26"
         },
         {
+            "name": "poigeon (poisson)",
+            "types": "",
+            "date": "10/03/26"
+        },
+        {
+            "name": "P-Rex ©David",
+            "types": "",
+            "date": "17/03/26"
+        },
+        {
             "name": "prisegeon",
-            "types": "cps"
+            "types": "cps",
+            "date": "oublié"
         },
         {
             "name": "st-pigeontin",
             "types": "cps",
             "planned": "13/02/26"
+        },
+        {
+            "name": "super-pigeon",
+            "types": "cps",
+            "planned": "09/03/26"
         }
     ]
 }
