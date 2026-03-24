@@ -20,13 +20,18 @@
             "planned": "20/03/26"
         },
         {
+            "name": "pigendarme",
+            "types": "c",
+            "date": "09/03/26"
+        },
+        {
             "name": "pi-geon",
             "types": "cps",
             "date": "06/02/26"
         },
         {
-            "name": "pifieux ©David",
-            "types": "",
+            "name": "pifieux",
+            "types": "cps",
             "date": "oublié"
         },
         {
@@ -131,13 +136,13 @@
             "date": "09/02/26"
         },
         {
-            "name": "poigeon (poisson) ©David",
-            "types": "",
+            "name": "poigeon",
+            "types": "c",
             "date": "10/03/26"
         },
         {
-            "name": "P-Rex ©David",
-            "types": "",
+            "name": "P-Rex",
+            "types": "c",
             "date": "17/03/26"
         },
         {
